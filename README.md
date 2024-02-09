@@ -16,3 +16,6 @@
 ## Run
 - Run command `docker-compose up`
 - Access to http://localhost/
+
+- Restart
+- Run `docker-compose restart`
